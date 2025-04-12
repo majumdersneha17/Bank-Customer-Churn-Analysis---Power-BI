@@ -43,17 +43,12 @@ The objective of this project is to identify **why customers are leaving the ban
 - Tenure of Customers before Churn
 - % of Active vs Inactive Customers
 
-### 4. **Trend Visualization**
-- Monthly/Quarterly churn trends
-- Line/Area charts for time-based analysis
-- Dynamic visuals that change with slicer input
-
 ---
 
 ## 📈 Business Insights Derived
 
 - **Younger customers** with lower account balances and credit scores showed higher churn rates.
-- **Females in specific regions** exhibited a slightly higher churn rate than males.
+- **Females** exhibited a slightly higher churn rate than males.
 - Customers with **tenure between 3–6 years** had increased likelihood of churn, suggesting a critical retention period.
 - **Low engagement (low activity score)** was a strong indicator of potential churn.
 
