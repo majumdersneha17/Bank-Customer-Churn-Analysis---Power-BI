@@ -22,17 +22,6 @@ The objective of this project is to identify **why customers are leaving the ban
 
 ---
 
-## 📂 Project Structure
-
-| File | Description |
-|------|-------------|
-| `Bank Churn Analysis.pbix` | Main Power BI dashboard file with data model, DAX logic, and interactive visuals |
-| `README.md` | Project documentation and overview (this file) |
-| *(optional)* `data/` | Raw or cleaned data sources (if included) |
-| *(optional)* `images/` | Screenshots or GIFs of the dashboard |
-
----
-
 ## 📌 Key Features
 
 ### 1. **Customer Segmentation**
