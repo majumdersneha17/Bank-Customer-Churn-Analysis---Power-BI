@@ -8,7 +8,6 @@ The objective of this project is to identify **why customers are leaving the ban
 
 - Monitor churn trends over time
 - Analyze customer demographics and behaviors
-- Compare churn vs non-churn customer segments
 - Identify high-risk customers for proactive retention strategies
 
 ---
